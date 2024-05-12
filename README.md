@@ -1,2 +1,2 @@
-# Website-Absensi-Mahasiswa-Deteksi-Wajah
-Website absensi mahasiswa menggunakan aplikasi deteksi wajah dengan bahasa pemrograman PHP untuk pembuatan website dan Python untuk pembuatan aplikasi deteksi wajah. Untuk database menggunakan database MySQL
+# Aplikasi-Presensi-Deteksi-Wajah
+Website ini dirancang dengan bahasa pemrograman Python dan menggunakan localhost sebagai server virtualnya. Aplikasi ini menggunakan beberapa perpustakaan seperti KNN dan Haar Cascade yang berguna untuk membangun aplikasi.
