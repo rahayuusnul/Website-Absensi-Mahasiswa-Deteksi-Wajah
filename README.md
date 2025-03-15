@@ -1,2 +1,2 @@
-# Aplikasi-Presensi-Deteksi-Wajah
-Website ini dirancang dengan bahasa pemrograman Python dan menggunakan localhost sebagai server virtualnya. Aplikasi ini menggunakan beberapa perpustakaan seperti KNN dan Haar Cascade yang berguna untuk membangun aplikasi.
+# web-absensi-wajah
+Website absensi mahasiswa dengan deteksi wajah yang dikembangkan menggunakan Python dan PHP. Aplikasi ini berjalan di localhost sebagai server virtual dan menggunakan pustaka seperti KNN dan Haar Cascade untuk proses pengenalan wajah. Python digunakan untuk sistem presensi, sementara PHP digunakan untuk membangun tampilan website.
